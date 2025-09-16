@@ -45,6 +45,7 @@ This Action does not have outputs.
 ## Authors
 
 **Nate Scherer** - *Initial work* - [natescherer](https://github.com/natescherer)
+
 **Javier Artiga** - *Fork* - [jartigag](https://github.com/jartigag)
 
 ## License
