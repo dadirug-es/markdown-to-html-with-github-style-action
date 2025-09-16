@@ -16,7 +16,7 @@ jobs:
     runs-on: windows-latest
     steps:
       - name: Convert Markdown to HTML
-        uses: natescherer/markdown-to-html-with-github-style-action@v1
+        uses: dadirug-es/dadirug-es-forked-this-markdown-to-html-with-github-style-gh-action@v1
         with:
           path: README.md,CHANGELOG.md,docs\doc1.md
           outputpath: out
@@ -45,6 +45,7 @@ This Action does not have outputs.
 ## Authors
 
 **Nate Scherer** - *Initial work* - [natescherer](https://github.com/natescherer)
+**Javier Artiga** - *Fork* - [jartigag](https://github.com/jartigag)
 
 ## License
 
